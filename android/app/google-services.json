@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913926274232",
+    "project_id": "rotaplanlama-5ba0e",
+    "storage_bucket": "rotaplanlama-5ba0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913926274232:android:7a53145d8213faeb25c84d",
+        "android_client_info": {
+          "package_name": "com.example.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913926274232-qornb749j8ak1qshmpf6k778kkiu1uu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClFE1kmQRoo3bYRVIo1EGw5ClEx5HwbQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913926274232-qornb749j8ak1qshmpf6k778kkiu1uu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
